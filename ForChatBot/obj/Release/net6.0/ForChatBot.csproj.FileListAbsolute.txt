@@ -1,0 +1,102 @@
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.Development.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.staticwebassets.runtime.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.exe
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.deps.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.runtimeconfig.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.pdb
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\bin\Release\net6.0\Telegram.Bot.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.AssemblyReference.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfoInputs.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfo.cs
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CoreCompileInputs.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cs
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.ForChatBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.build.ForChatBot.props
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ForChatBot.props
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ForChatBot.props
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\bundle\ForChatBot.styles.css
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\projectbundle\ForChatBot.bundle.scp.css
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CopyComplete
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\refint\ForChatBot.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.pdb
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.genruntimeconfig.cache
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\ref\ForChatBot.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\refint\ForChatBot.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.pdb
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.Development.json
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.json
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.staticwebassets.runtime.json
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.exe
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.deps.json
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.runtimeconfig.json
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.dll
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.pdb
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\ForChatBot\ForChatBot\bin\Release\net6.0\Telegram.Bot.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.AssemblyReference.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfoInputs.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfo.cs
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CoreCompileInputs.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.MvcApplicationPartsAssemblyInfo.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cs
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.build.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.development.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.ForChatBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.build.ForChatBot.props
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ForChatBot.props
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ForChatBot.props
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.pack.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\bundle\ForChatBot.styles.css
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\projectbundle\ForChatBot.bundle.scp.css
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CopyComplete
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.genruntimeconfig.cache
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\ref\ForChatBot.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\appsettings.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.staticwebassets.runtime.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.exe
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.deps.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.runtimeconfig.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\ForChatBot.pdb
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\bin\Release\net6.0\Telegram.Bot.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.AssemblyReference.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfoInputs.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.AssemblyInfo.cs
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.RazorAssemblyInfo.cs
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.ForChatBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.build.ForChatBot.props
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ForChatBot.props
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ForChatBot.props
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\bundle\ForChatBot.styles.css
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\scopedcss\projectbundle\ForChatBot.bundle.scp.css
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.csproj.CopyComplete
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\refint\ForChatBot.dll
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.pdb
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ForChatBot.genruntimeconfig.cache
+C:\Users\Данила Дашевский\Desktop\ForChatBot\ForChatBot\obj\Release\net6.0\ref\ForChatBot.dll

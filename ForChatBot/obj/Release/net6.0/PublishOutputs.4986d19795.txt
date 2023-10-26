@@ -1,0 +1,9 @@
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.exe
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.deps.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.runtimeconfig.json
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.pdb
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\hanaz\source\repos\10MTS Olimpiada\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll

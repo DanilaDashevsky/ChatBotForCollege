@@ -1,0 +1,9 @@
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.exe
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.deps.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.runtimeconfig.json
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\ForChatBot.pdb
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\ForChatBot\ForChatBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll

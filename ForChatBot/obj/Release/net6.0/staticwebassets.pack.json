@@ -1,0 +1,801 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ForChatBot.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ForChatBot.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\desktop.ini",
+      "PackagePath": "staticwebassets\\Schedule\\desktop.ini"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ВторникЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\ВторникЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\НеделяЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\НеделяЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПондельникД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПондельникД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПонедельникЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПонедельникЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ПятницаЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\ПятницаЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СредаЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\СредаЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\СубботаЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\СубботаЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергД-12.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергД-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергД-22.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергД-22.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергД-32.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергД-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергД-42.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергД-42.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергП-10.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергП-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергП-20.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергП-20.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергП-40.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергП-40.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергФ-13.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергФ-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергФ-23.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергФ-23.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергФ-33.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергФ-33.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергФ-43.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергФ-43.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергШ-15.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергШ-15.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергШ-25.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергШ-25.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергШ-35.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергШ-35.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергШ-45.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергШ-45.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергЮ-14.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергЮ-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергЮ-24.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергЮ-24.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергЮ-34.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергЮ-34.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\Schedule\\ЧетвергЮ-44.png",
+      "PackagePath": "staticwebassets\\Schedule\\ЧетвергЮ-44.png"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Данила Дашевский\\Desktop\\ForChatBot\\ForChatBot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ForChatBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ForChatBot.props",
+      "PackagePath": "build\\ForChatBot.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ForChatBot.props",
+      "PackagePath": "buildMultiTargeting\\ForChatBot.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ForChatBot.props",
+      "PackagePath": "buildTransitive\\ForChatBot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
